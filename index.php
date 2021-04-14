@@ -85,12 +85,93 @@
         <div class="row">
             <div class="col-">
                 <div class="about-this-university">
+                    <h2>About our University</h2>
+                    <p>The University of Silverleaft is a was opened for public in 2020. We consist of three faculties and multiple departments. We also have a large number of research and centres of expertise that span across several academic disciplines. 
+                        These disciplines serve as a meeting point for students, researchers and representatives from the commercial, industrial, and public sectors.
+                        <br>We offere courses in three fields of expertise that make up our faculties including Information Technology, Business and Politics.
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </p>
+                    <h4>Information Technology</h4>
+                    <p>
+                        Our University always aims to catch up with newest technologies along with the way to develop and teach them.
+                        <br>Our infrastructure providess all the necessities for both students and staff to fully integrate their lessons to real problems and work.
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </p>
+                    <h4>Business</h4>
+                    <p>
+                        We possess comprehensive curriculums with experienced staffs to work with student on various business skilss to accquire them the needed 
+                        knowledge in order to pursuit a successfull career path.
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </p>
+
+                    <h4>Politics</h4>
+                    <p>
+                        Our faculty of 'Politics' offers not only the most common area of political science but also on fields such as Philosophy, History and Law
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </p>
                 </div>
                 <div class="about-this-page">
+                    <h2>About this website</h2>
+                    <p>This the academic portal of our University where guests can access articles written by our students and approved by our experts</p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                 </div>
             </div>
 
             <div class="col">
+                <div class="content-images">
+                    <img src="images/pic1.jpg" alt="University building" width="500" height="280">
+                </div>
+                <div class="content-images">
+                    <img src="images/pic2.jpg" alt="University building" width="500" height="280">
+                </div>
+                <div class="content-images">
+                    <img src="images/pic3.jpg" alt="University building" width="500" height="280">
+                </div>
+                <div class="content-images">
+                    <img src="images/pic4.jpg" alt="University building" width="500" height="280">
+                </div>
             </div>
         </div>
     </div>
