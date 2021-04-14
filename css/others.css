@@ -1,0 +1,96 @@
+/* This css file is for individual pages */
+
+/* Home page content */
+
+.about-this-university {
+  width: 500px;
+  border-top: 1px solid black;
+  margin-top: 100px;
+  text-align: left;
+}
+
+.about-this-page {
+  width: 500px;
+  border-top: 1px solid black;
+  margin-top: 100px;
+  text-align: left;
+}
+
+.content-images {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+/* Login page */
+
+.container-login {
+  margin: auto;
+  width: 75%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.container-login div input {
+  margin-bottom: 10px;
+  max-width: 250px;
+}
+
+/* Student page */
+.container-student {
+  margin: auto;
+  width: 85%;
+  border: 1px solid gray;
+  padding: 25px;
+  margin-bottom: 300px;
+}
+
+.container-student input{
+  margin-bottom: 10px
+}
+
+.container-closuredate {
+  text-align: center;
+}
+
+/* Coordinator page */
+
+.container-coordinator-closuredate input{
+  margin-bottom: 10px
+}
+
+.coordinator-files input{
+  margin-bottom: 10px;
+}
+
+.container-coordinator-closuredate {
+  margin: auto;
+  width: 90%;
+  border-bottom: 1px solid gray;
+  padding: 25px;
+  margin-top: 10px;
+}
+
+.container-coordinator-files {
+  margin: auto;
+  width: 90%;
+  border-bottom: 1px solid gray;
+  padding: 25px;
+  margin-top: 10px;
+}
+
+.container-manager-files {
+  margin: auto;
+  width: 90%;
+  border: 1px solid gray;
+  padding: 25px;
+  margin-top: 10px;
+  margin-bottom: 300px;
+}
+
+.guest-content {
+  margin: 20px;
+  border-left: 6px solid gray;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 20px;
+}
